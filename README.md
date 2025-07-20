@@ -1,2 +1,2 @@
 # git_test
-Hello Odin now!
+Hello Odin now Sunday!
